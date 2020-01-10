@@ -1,0 +1,1 @@
+This is the working version for the technical blog example covered. This works on the local environment.
